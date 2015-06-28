@@ -1,6 +1,6 @@
 # Backburner Jobs
 
-A experimental repository of essential Backburner jobs for different tasks.
+A experimental repository of essential [Backburner](https://github.com/nesquena/backburner) jobs for different tasks.
 
 ## Copyright
 
